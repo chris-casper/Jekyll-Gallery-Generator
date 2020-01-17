@@ -1,2 +1,4 @@
 # Jekyll-Gallery-Generator
-I was too lazy to generate dozens of markdown files off my photos. So I wrote a template and short shell script to generate them for me.
+
+## Origin Story
+I've been taking photos for years, so have quite a few folders of photos. Rather than making dozens of markdown files, I wrote a short shell script to do the hard slog for me. I used a template markdown file, which is copied and the folder name inserted in a couple places. Thankfully it worked out quite well.
